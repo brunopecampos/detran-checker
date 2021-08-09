@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-heroku-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.0",
+    "telegraf": "^3.38.0",
+    "axios": "^0.21.1"
+  }
+}
